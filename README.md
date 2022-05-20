@@ -5,7 +5,7 @@ Android学习的结课作业
 
 MVVM架构可以将程序结构主要分成3部分：Model是数据模型部分；View是界面展示部分；而ViewModel比较特殊，可以将它理解成一个连接数据模型和界面展示的桥梁，从而实现让业务逻辑和界面展示分离的程序结构设计。
 
-<img src="C:\Users\chaowen\AppData\Roaming\Typora\typora-user-images\image-20220520103311474.png" alt="image-20220520103311474"  />
+![image](https://user-images.githubusercontent.com/80996151/169438614-b9ca0dae-6f6e-4fdd-8cf7-0864cebb30e0.png)
 
 - **UI控制层**：包含Activity、Fragment、布局文件等与界面相关的东西。
 
